@@ -22,10 +22,10 @@ https://www.locuschain.com
 * [Chapter II](https://www.locuschain.com/en/socialView?blogSeq=93&blogLanguage=en&blogCategory=tech)
 
 
-* [Chapter III](https://www.locuschain.com/en/socialView?blogSeq=171&blogLanguage=en&blogCategory=tech)
+* [Chapter III](https://www.locuschain.com/en/socialView?blogSeq=97&blogLanguage=en&blogCategory=tech)
 
 
-* [Chapter IV](https://www.locuschain.com/en/socialView?blogSeq=171&blogLanguage=en&blogCategory=tech)
+* [Chapter IV](https://www.locuschain.com/en/socialView?blogSeq=165&blogLanguage=en&blogCategory=tech)
 
 
 * [Chapter V](https://www.locuschain.com/en/socialView?blogSeq=171&blogLanguage=en&blogCategory=tech)
