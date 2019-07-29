@@ -1,24 +1,23 @@
-# doc
-Locus Chain Documentation
-
-
-
-# Locus Chain Website
+# Locus Chain Documentation
+<br/>
+<br/>
+<br/>
+## Locus Chain Website
 https://www.locuschain.com
 
-# Locus Chain Enterprise Mainnet
-http://bitly.kr/DK1dUq 
+## Locus Chain Enterprise Mainnet
+[Enterprise Mainnet]http://bitly.kr/DK1dUq 
 
-# Locus Chain White Paper
-?	English
-?	Korean
-?	Chinese
+## Locus Chain White Paper
+*[English]https://www.locuschain.com/uploads/whitepaper/Locus%20Chain%20-%20Whitepaper%20-%20ENG%20v.0.5.2.pdf
+*[Korean]https://www.locuschain.com/uploads/whitepaper/Locus%20Chain%20-%20Whitepaper%20-%20KOR%20v.0.5.2.pdf
+*[Chinese]https://www.locuschain.com/uploads/whitepaper/Locus%20Chain%20-%20Whitepaper%20-%20CHN%20v.0.5.2.pdf
 
-# Locus Chain Technical Features
-?	Chapter 弘
-?	Chapter 弗
-?	Chapter 必
-?	Chapter 戊
-?	Chapter 打
+## Locus Chain Technical Features
+*[Chapter 弘]https://www.locuschain.com/en/socialView?blogSeq=91&blogLanguage=en&blogCategory=tech
+*[Chapter 弗]https://www.locuschain.com/en/socialView?blogSeq=93&blogLanguage=en&blogCategory=tech
+*[Chapter 必]https://www.locuschain.com/en/socialView?blogSeq=171&blogLanguage=en&blogCategory=tech
+*[Chapter 戊]https://www.locuschain.com/en/socialView?blogSeq=171&blogLanguage=en&blogCategory=tech
+*[Chapter 打]https://www.locuschain.com/en/socialView?blogSeq=171&blogLanguage=en&blogCategory=tech
 
 
