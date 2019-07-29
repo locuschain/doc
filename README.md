@@ -1,7 +1,5 @@
 # Locus Chain Documentation
-<br/>
-<br/>
-<br/>
+
 ## Locus Chain Website
 https://www.locuschain.com
 
